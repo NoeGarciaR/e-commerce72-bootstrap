@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "e-commerce72-bootstrap"
+    }
+  },
+  "defaultProject": "e-commerce72-bootstrap",
+  "cli": {
+    "analytics": false
+  }
 }
